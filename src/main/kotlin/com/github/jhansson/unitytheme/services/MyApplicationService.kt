@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jhansson.unitytheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jhansson.unitytheme.MyBundle
 
 class MyApplicationService {
 
